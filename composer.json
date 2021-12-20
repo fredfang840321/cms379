@@ -1,0 +1,9 @@
+{
+  "name": "craftcms/cmskaimou",
+  "description": "test",
+  "version": "3.7.9",
+  "require": {
+      "php": "^7.2",
+      "another-vendor/package": "1.*"
+  }
+}
