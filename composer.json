@@ -1,9 +1,10 @@
 {
   "name": "craftcms-new/cms",
   "description": "test",
-  "version": "3.7.9",
+  "version": "1.0",
   "require": {
       "php": "^7.2",
       "another-vendor/package": "1.*"
-  }
+  },
+  "license": "MIT"
 }
