@@ -1,6 +1,6 @@
 {
-  "name": "cms379",
-  "description": "newVersion",
+  "name": "craftcmsNew/cms",
+  "description": "test",
   "version": "3.7.9",
   "require": {
       "php": "^7.2",
