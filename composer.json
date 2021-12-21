@@ -3,8 +3,7 @@
   "description": "test",
   "version": "1.0",
   "require": {
-      "php": "^7.2",
-      "another-vendor/package": "1.*"
+      "php": "^7.2"
   },
   "license": "MIT"
 }
